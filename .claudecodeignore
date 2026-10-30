@@ -1,0 +1,7 @@
+# Ignore bulky vendor binaries and build artifacts
+node_modules/
+dist/
+build/
+.next/
+public/static/charting_library/
+.git/
